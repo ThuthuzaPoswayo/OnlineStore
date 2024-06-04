@@ -1,0 +1,40 @@
+{
+    "results": 
+    [
+        {
+            "productName": "Dell-Attitude",
+            "category": "Laptop",
+            "description": "Dell-Latitude E5450 i3 5th GEN1 for business.RAM: 8GB, HDD: 1TB",
+      "amount": 20000.89,
+            "img_url": "https://github.com/ThuthuzaPoswayo/All-images.git"
+        },
+        {
+            "productName": "Bluetooth speaker",
+            "category": "Speaker box",
+            "description": "Bluetooth speaker for entertainement use RAM: 8GB, HDD: 1TB",
+      "amount": 2000,
+            "img_url": "https://github.com/ThuthuzaPoswayo/All-images.gitimages/Logo.png"
+        },
+        {
+            "productName": "USB",
+            "category": "Storage device",
+            "description": "USB for personal use Storage: 1TB",
+      "amount": 1000,
+            "img_url": "https://github.com/ThuthuzaPoswayo/All-images.gitimages/Logo.png"
+        },
+        {
+            "productName": "iPhone 8",
+            "category": "Cellphoone",
+            "description": "iPhone 8 for personal use RAM: 84GB, HDD: 500GB",
+      "amount": 10000.50,
+            "img_url": "https://github.com/ThuthuzaPoswayo/All-images.gitimages/Logo.png"
+        },
+        {
+            "productName": "iPhone 20",
+            "category": "Cellphoone",
+            "description": "iPhone 20 for personal use RAM: 8GB, HDD: 1TB",
+      "amount": 20000.89,
+            "img_url": "https://github.com/ThuthuzaPoswayo/All-images.gitimages/Logo.png"
+        }
+    ]
+}
